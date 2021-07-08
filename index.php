@@ -1,4 +1,4 @@
 <?php 
-//redireccionar a la vista de login
+//primera paginaaa
 header ('Location: vistas/login.html');
 ?>
